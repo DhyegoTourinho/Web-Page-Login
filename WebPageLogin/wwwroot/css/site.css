@@ -1,0 +1,66 @@
+*{
+    padding:0;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.login-container {
+    background: #F2EFFB;
+    height: auto;
+    margin: 20px 50px;
+    border: 2px solid black;
+}
+
+.title {
+    color: black;
+}
+
+.forms-container {
+    align-content: center;
+    text-align: center;
+    background: #F2EFFB;
+    height: 600px;
+    margin: 10px 200px;
+    border: 2px solid black; 
+}
+.forms input {
+    width: 400px; 
+    padding: 10px 10px;
+    margin: 10px;
+}
+.actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.actions input{
+    width:150px;
+}
+.forms {
+    display: inline-grid;
+}
+
+
