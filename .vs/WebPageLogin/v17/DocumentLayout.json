@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\",
+  "WorkspaceRootPath": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\dhyego.silva\\documents\\webpagelogin\\webpagelogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|solutionrelative:webpagelogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\dhyego.silva\\documents\\webpagelogin\\webpagelogin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\astro\\onedrive\\documentos\\web-page-login\\webpagelogin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|solutionrelative:webpagelogin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\dhyego.silva\\documents\\webpagelogin\\webpagelogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|solutionrelative:webpagelogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\astro\\onedrive\\documentos\\web-page-login\\webpagelogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|solutionrelative:webpagelogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\dhyego.silva\\documents\\webpagelogin\\webpagelogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|solutionrelative:webpagelogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\astro\\onedrive\\documentos\\web-page-login\\webpagelogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|solutionrelative:webpagelogin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|c:\\users\\astro\\onedrive\\documentos\\web-page-login\\webpagelogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EB65752-478B-44CB-8DE6-C53B674473DA}|WebPageLogin\\WebPageLogin.csproj|solutionrelative:webpagelogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,68 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebPageLogin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebPageLogin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T17:50:05.637Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebPageLogin\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebPageLogin\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T04:10:06.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebPageLogin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebPageLogin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T15:33:03.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\Views\\Login\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "WebPageLogin\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "WebPageLogin\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T15:36:52.715Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebPageLogin\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\dhyego.silva\\Documents\\WebPageLogin\\WebPageLogin\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebPageLogin\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-19T17:44:49.7Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebPageLogin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\astro\\OneDrive\\Documentos\\Web-Page-Login\\WebPageLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebPageLogin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T17:50:05.637Z",
               "EditorCaption": ""
             }
           ]

@@ -28,10 +28,8 @@ body {
 }
 
 .login-container {
-    background: #F2EFFB;
     height: auto;
     margin: 20px 50px;
-    border: 2px solid black;
 }
 
 .title {
